@@ -1,4 +1,4 @@
-## Hi 👋, I'm Shravan Kumar G
+## Hi 👋, I'm Shravan
 
 # 💫 About Me:
 🎓 B.E. Artificial Intelligence & Machine Learning Student<br>
