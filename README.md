@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=200&section=header&text=Hi%2C%20I'm%20Shravan%20Kumar%20G%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
 
 <p align="center">
@@ -31,8 +30,8 @@
 
 ## 👋 Hi, I'm Shravan Kumar G
 
-🎓 **B.E. Artificial Intelligence & Machine Learning Student**  
-🐍 **Python Full Stack Developer**  
+🎓 **B.E. Artificial Intelligence & Machine Learning Student**
+🐍 **Python Full Stack Developer**
 🤖 **AI/ML Enthusiast**
 
 I'm a developer who enjoys turning ideas into **practical, scalable, and user-friendly applications**. I work primarily with **Python, SQL, JavaScript, React, and Django**, while continuously strengthening my **DSA and problem-solving skills**.
@@ -41,13 +40,13 @@ I'm a developer who enjoys turning ideas into **practical, scalable, and user-fr
 
 ## 🚀 What I'm Working On
 
-- 🐍 Building applications with **Python & Django**
-- 🌐 Developing **full-stack web applications**
-- 🗄️ Working with **SQL & databases**
-- 🧠 Strengthening **DSA, problem-solving & programming**
-- 🤖 Exploring **AI, LLM applications & Generative AI**
-- 💻 Building practical **real-world projects**
-- 📚 Continuously learning and improving my technical skills
+* 🐍 Building applications with **Python & Django**
+* 🌐 Developing **full-stack web applications**
+* 🗄️ Working with **SQL & databases**
+* 🧠 Strengthening **DSA, problem-solving & programming**
+* 🤖 Exploring **AI, LLM applications & Generative AI**
+* 💻 Building practical **real-world projects**
+* 📚 Continuously learning and improving my technical skills
 
 ---
 
@@ -107,6 +106,14 @@ I enjoy taking a problem, breaking it down, writing clean and structured code, a
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shravan-kumar-42&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -126,4 +133,3 @@ I enjoy taking a problem, breaking it down, writing clean and structured code, a
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=80&section=footer" width="100%" alt="footer"/>
-
