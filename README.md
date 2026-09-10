@@ -1,3 +1,4 @@
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=200&section=header&text=Hi%2C%20I'm%20Shravan%20Kumar%20G%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
 
 <p align="center">
@@ -57,11 +58,8 @@ I believe in learning by building.
 I enjoy taking a problem, breaking it down, writing clean and structured code, and turning it into something useful.
 
 <p align="center">
-
-🔥 <b>Code • Learn • Build • Repeat</b>
-
+🔥 <b>Code • Learn • Build • Repeat</b><br>
 🎯 <b>Building a Smarter Tomorrow</b>
-
 </p>
 
 ---
@@ -69,7 +67,6 @@ I enjoy taking a problem, breaking it down, writing clean and structured code, a
 ## 💻 Coding Profiles
 
 <p align="center">
-
   <a href="https://leetcode.com/u/Shravankumar42/">
     <img src="https://img.shields.io/badge/LeetCode-Shravankumar42-102216?style=for-the-badge&logo=leetcode&logoColor=11d452" alt="LeetCode Profile"/>
   </a>
@@ -77,7 +74,6 @@ I enjoy taking a problem, breaking it down, writing clean and structured code, a
   <a href="https://www.hackerrank.com/profile/shravankumarg361">
     <img src="https://img.shields.io/badge/HackerRank-shravankumarg361-102216?style=for-the-badge&logo=hackerrank&logoColor=11d452" alt="HackerRank Profile"/>
   </a>
-
 </p>
 
 ---
@@ -85,35 +81,20 @@ I enjoy taking a problem, breaking it down, writing clean and structured code, a
 ## 🛠️ My Toolbox
 
 <p align="center">
-
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-
   <img src="https://img.shields.io/badge/CSS3-102216?style=for-the-badge&logo=css3&logoColor=11d452" alt="CSS3"/>
-
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-
   <img src="https://img.shields.io/badge/React-102216?style=for-the-badge&logo=react&logoColor=11d452" alt="React"/>
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-
   <img src="https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-
   <img src="https://img.shields.io/badge/VS%20Code-102216?style=for-the-badge&logo=visualstudiocode&logoColor=11d452" alt="VS Code"/>
-
 </p>
 
 ---
@@ -124,16 +105,11 @@ I enjoy taking a problem, breaking it down, writing clean and structured code, a
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shravan-kumar-42&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravan-kumar-42&theme=dark" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-
   <a href="https://github.com/shravan-kumar-42">GitHub</a>
   •
   <a href="https://linkedin.com/in/shravan-kumar-g-111720306">LinkedIn</a>
@@ -143,11 +119,11 @@ I enjoy taking a problem, breaking it down, writing clean and structured code, a
   <a href="https://www.hackerrank.com/profile/shravankumarg361">HackerRank</a>
   •
   <a href="mailto:shravankumarg361@gmail.com">Email</a>
-
 </p>
 
 <p align="center">
   <b>Thanks for visiting! ⭐</b>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=100&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=80&section=footer" width="100%" alt="footer"/>
+
