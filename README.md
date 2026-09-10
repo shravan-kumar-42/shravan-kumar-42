@@ -23,90 +23,131 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shravan-kumar-42&color=11d452&style=for-the-badge" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=shravan-kumar-42&color=11d452&style=for-the-badge" alt="Visitor Badge"/>
 </p>
+
+---
 
 ## 👋 Hi, I'm Shravan Kumar G
 
-🎓 **B.E. Artificial Intelligence & Machine Learning Student**
-🐍 **Python Full Stack Developer**
+🎓 **B.E. Artificial Intelligence & Machine Learning Student**  
+🐍 **Python Full Stack Developer**  
 🤖 **AI/ML Enthusiast**
 
 I'm a developer who enjoys turning ideas into **practical, scalable, and user-friendly applications**. I work primarily with **Python, SQL, JavaScript, React, and Django**, while continuously strengthening my **DSA and problem-solving skills**.
 
-### 🚀 What I'm Working On
+---
 
-* 🐍 Building applications with **Python & Django**
-* 🌐 Developing **full-stack web applications**
-* 🗄️ Working with **SQL & databases**
-* 🧠 Strengthening **DSA, problem-solving & programming**
-* 🤖 Exploring **AI, LLM applications & Generative AI**
-* 💻 Building practical **real-world projects**
-* 📚 Continuously learning and improving my technical skills
+## 🚀 What I'm Working On
 
-### 💡 My Approach
+- 🐍 Building applications with **Python & Django**
+- 🌐 Developing **full-stack web applications**
+- 🗄️ Working with **SQL & databases**
+- 🧠 Strengthening **DSA, problem-solving & programming**
+- 🤖 Exploring **AI, LLM applications & Generative AI**
+- 💻 Building practical **real-world projects**
+- 📚 Continuously learning and improving my technical skills
 
-I believe in learning by building. I enjoy taking a problem, breaking it down, writing clean and structured code, and turning it into something useful.
+---
 
-🔥 **Code • Learn • Build • Repeat**
+## 💡 My Approach
 
-🎯 **Building a Smarter Tomorrow**
+I believe in learning by building.
 
-### 💻 Coding Profiles
+I enjoy taking a problem, breaking it down, writing clean and structured code, and turning it into something useful.
 
 <p align="center">
+
+🔥 <b>Code • Learn • Build • Repeat</b>
+
+🎯 <b>Building a Smarter Tomorrow</b>
+
+</p>
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
+
   <a href="https://leetcode.com/u/Shravankumar42/">
     <img src="https://img.shields.io/badge/LeetCode-Shravankumar42-102216?style=for-the-badge&logo=leetcode&logoColor=11d452" alt="LeetCode Profile"/>
   </a>
+
   <a href="https://www.hackerrank.com/profile/shravankumarg361">
     <img src="https://img.shields.io/badge/HackerRank-shravankumarg361-102216?style=for-the-badge&logo=hackerrank&logoColor=11d452" alt="HackerRank Profile"/>
   </a>
+
 </p>
 
-### 🛠️ My Toolbox
+---
+
+## 🛠️ My Toolbox
 
 <p align="center">
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+
   <img src="https://img.shields.io/badge/CSS3-102216?style=for-the-badge&logo=css3&logoColor=11d452" alt="CSS3"/>
+
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
   <img src="https://img.shields.io/badge/React-102216?style=for-the-badge&logo=react&logoColor=11d452" alt="React"/>
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+
   <img src="https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
   <img src="https://img.shields.io/badge/VS%20Code-102216?style=for-the-badge&logo=visualstudiocode&logoColor=11d452" alt="VS Code"/>
+
 </p>
 
-### 📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shravan-kumar-42&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shravan-kumar-42&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravan-kumar-42&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravan-kumar-42&theme=dark" alt="GitHub Streak"/>
 </p>
 
-### 🤝 Let's Connect
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
-  <a 
 
-> href="https://github.com/shravan-kumar-42">GitHub</a>
-
- •
-  <a href="https://linkedin.com/in/shravan-kumar-g-111720306">LinkedIn</a> •
-  <a href="https://leetcode.com/u/Shravankumar42/">LeetCode</a> •
-  <a href="https://www.hackerrank.com/profile/shravankumarg361">HackerRank</a> •
+  <a href="https://github.com/shravan-kumar-42">GitHub</a>
+  •
+  <a href="https://linkedin.com/in/shravan-kumar-g-111720306">LinkedIn</a>
+  •
+  <a href="https://leetcode.com/u/Shravankumar42/">LeetCode</a>
+  •
+  <a href="https://www.hackerrank.com/profile/shravankumarg361">HackerRank</a>
+  •
   <a href="mailto:shravankumarg361@gmail.com">Email</a>
+
 </p>
 
 <p align="center">
   <b>Thanks for visiting! ⭐</b>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=100&section=footer" width="100%" alt="footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=100&section=footer" width="100%" alt="footer"/>
