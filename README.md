@@ -34,8 +34,8 @@
 
 ## 👋 Hi, I'm Shravan Kumar G
 
-🎓 **B.E. Artificial Intelligence & Machine Learning Student**  
-🐍 **Python Full Stack Developer**  
+🎓 **B.E. Artificial Intelligence & Machine Learning Student**
+🐍 **Python Full Stack Developer**
 🤖 **AI/ML Enthusiast**
 
 I'm a developer who enjoys turning ideas into **practical, scalable, and user-friendly applications**. I work primarily with **Python, SQL, JavaScript, React, and Django**, while continuously strengthening my **DSA and problem-solving skills**.
@@ -44,13 +44,13 @@ I'm a developer who enjoys turning ideas into **practical, scalable, and user-fr
 
 ## 🚀 What I'm Working On
 
-- 🐍 Building applications with **Python & Django**
-- 🌐 Developing **full-stack web applications**
-- 🗄️ Working with **SQL & databases**
-- 🧠 Strengthening **DSA, problem-solving & programming**
-- 🤖 Exploring **AI, LLM applications & Generative AI**
-- 💻 Building practical **real-world projects**
-- 📚 Continuously learning and improving my technical skills
+* 🐍 Building applications with **Python & Django**
+* 🌐 Developing **full-stack web applications**
+* 🗄️ Working with **SQL & databases**
+* 🧠 Strengthening **DSA, problem-solving & programming**
+* 🤖 Exploring **AI, LLM applications & Generative AI**
+* 💻 Building practical **real-world projects**
+* 📚 Continuously learning and improving my technical skills
 
 ---
 
@@ -105,7 +105,7 @@ I enjoy taking a problem, breaking it down, writing clean and structured code, a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=shravan-kumar-42&show_icons=true&theme=dark"
     alt="GitHub Stats"
   />
@@ -115,23 +115,15 @@ I enjoy taking a problem, breaking it down, writing clean and structured code, a
 
 ## 🔥 GitHub Daily Streak
 
+
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=shravan-kumar-42&theme=dark&hide_border=false"
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=shravan-kumar-42&theme=dark&hide_border=false"
     alt="GitHub Streak"
   />
 </p>
 
 ---
-
-## 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shravan-kumar-42&theme=github-dark&hide_border=true"
-    alt="GitHub Contribution Graph"
-  />
-</p>
 
 ---
 
