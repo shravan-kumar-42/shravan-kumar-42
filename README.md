@@ -8,15 +8,19 @@
   <a href="https://github.com/shravan-kumar-42">
     <img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452" alt="GitHub"/>
   </a>
+
   <a href="https://linkedin.com/in/shravan-kumar-g-111720306">
     <img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452" alt="LinkedIn"/>
   </a>
+
   <a href="https://leetcode.com/u/Shravankumar42/">
     <img src="https://img.shields.io/badge/LeetCode-102216?style=for-the-badge&logo=leetcode&logoColor=11d452" alt="LeetCode"/>
   </a>
+
   <a href="https://www.hackerrank.com/profile/shravankumarg361">
     <img src="https://img.shields.io/badge/HackerRank-102216?style=for-the-badge&logo=hackerrank&logoColor=11d452" alt="HackerRank"/>
   </a>
+
   <a href="mailto:shravankumarg361@gmail.com">
     <img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452" alt="Email"/>
   </a>
@@ -30,8 +34,8 @@
 
 ## 👋 Hi, I'm Shravan Kumar G
 
-🎓 **B.E. Artificial Intelligence & Machine Learning Student**
-🐍 **Python Full Stack Developer**
+🎓 **B.E. Artificial Intelligence & Machine Learning Student**  
+🐍 **Python Full Stack Developer**  
 🤖 **AI/ML Enthusiast**
 
 I'm a developer who enjoys turning ideas into **practical, scalable, and user-friendly applications**. I work primarily with **Python, SQL, JavaScript, React, and Django**, while continuously strengthening my **DSA and problem-solving skills**.
@@ -40,13 +44,13 @@ I'm a developer who enjoys turning ideas into **practical, scalable, and user-fr
 
 ## 🚀 What I'm Working On
 
-* 🐍 Building applications with **Python & Django**
-* 🌐 Developing **full-stack web applications**
-* 🗄️ Working with **SQL & databases**
-* 🧠 Strengthening **DSA, problem-solving & programming**
-* 🤖 Exploring **AI, LLM applications & Generative AI**
-* 💻 Building practical **real-world projects**
-* 📚 Continuously learning and improving my technical skills
+- 🐍 Building applications with **Python & Django**
+- 🌐 Developing **full-stack web applications**
+- 🗄️ Working with **SQL & databases**
+- 🧠 Strengthening **DSA, problem-solving & programming**
+- 🤖 Exploring **AI, LLM applications & Generative AI**
+- 💻 Building practical **real-world projects**
+- 📚 Continuously learning and improving my technical skills
 
 ---
 
@@ -57,8 +61,8 @@ I believe in learning by building.
 I enjoy taking a problem, breaking it down, writing clean and structured code, and turning it into something useful.
 
 <p align="center">
-🔥 <b>Code • Learn • Build • Repeat</b><br>
-🎯 <b>Building a Smarter Tomorrow</b>
+  🔥 <b>Code • Learn • Build • Repeat</b><br>
+  🎯 <b>Building a Smarter Tomorrow</b>
 </p>
 
 ---
@@ -101,15 +105,32 @@ I enjoy taking a problem, breaking it down, writing clean and structured code, a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shravan-kumar-42&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=shravan-kumar-42&show_icons=true&theme=dark"
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Daily Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shravan-kumar-42&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img 
+    src="https://streak-stats.demolab.com/?user=shravan-kumar-42&theme=dark&hide_border=false"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shravan-kumar-42&theme=github-dark&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
